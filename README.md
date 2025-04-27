@@ -1,7 +1,7 @@
 # 超星学习通(学银在线)视频课程下载器（Win电脑版）
 超星学习通(学银在线)视频课程下载工具，一键下载超星学习通(学银在线)的课程
 
-工具获取地址：https://lanzouw.com/s/course-downloader
+工具获取地址：https://pyjun.lanzoup.com/s/course-downloader
 
 ## 安装教程
 从蓝奏云网盘下载最新版学无止下载器后，点击确认一路安装即可
